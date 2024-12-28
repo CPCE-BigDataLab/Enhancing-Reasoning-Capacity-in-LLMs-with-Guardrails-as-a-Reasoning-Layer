@@ -1,3 +1,5 @@
+# Enhancing Reasoning Capacity in LLMs with Guardrails as a Reasoning Layer
+
 # 1. Introduction
 
 Large Language Models (LLMs), such as GPT-4, PaLM, and Claude, have revolutionized natural language processing, enabling applications ranging from content generation to decision support systems. However, despite their impressive capabilities, these models often lack robust reasoning skills, which limits their effectiveness in complex, real-world applications. For example, tasks requiring multi-step logic, contextual consistency, or advanced decision-making often highlight the shortcomings of these models.
