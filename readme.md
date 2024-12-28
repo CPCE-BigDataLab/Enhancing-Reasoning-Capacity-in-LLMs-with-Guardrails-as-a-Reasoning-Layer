@@ -2,7 +2,7 @@
 
 # 1. Introduction
 
-Large Language Models (LLMs), such as GPT-4, PaLM, and Claude, have revolutionized natural language processing, enabling applications ranging from content generation to decision support systems. However, despite their impressive capabilities, these models often lack robust reasoning skills, which limits their effectiveness in complex, real-world applications. For example, tasks requiring multi-step logic, contextual consistency, or advanced decision-making often highlight the shortcomings of these models.
+Large Language Models (LLMs), such as GPT, Llama, and Claude, have revolutionized natural language processing, enabling applications ranging from content generation to decision support systems. However, despite their impressive capabilities, these models often lack robust reasoning skills, which limits their effectiveness in complex, real-world applications. For example, tasks requiring multi-step logic, contextual consistency, or advanced decision-making often highlight the shortcomings of these models.
 
 Traditional approaches to addressing these limitations often involve the use of guardrails, which are designed to constrain or filter LLM outputs to ensure safety, ethical compliance, and quality. However, these guardrails primarily function as restrictive mechanisms, focusing on limiting outputs rather than enhancing the model’s ability to reason. As a result, the full potential of LLMs remains untapped in scenarios that demand high reasoning capacity.
 
