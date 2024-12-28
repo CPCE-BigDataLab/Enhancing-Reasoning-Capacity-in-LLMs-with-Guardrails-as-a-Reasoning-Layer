@@ -171,23 +171,6 @@ A user requests a summary of a research paper.
 4. **Iterative Refinement:** The reasoning layer continues refining until the summary meets the defined quality standards.  
 5. **Final Output:** A polished, accurate summary is delivered to the user.
 
-### Design Principles
-
-1. **Modularity:**  
-   - Allows components (e.g., LLM, reasoning layer) to be updated independently, ensuring flexibility and adaptability.
-
-2. **Scalability:**  
-   - Supports integration with additional tools or higher reasoning complexity.
-
-3. **Interoperability:**  
-   - Works seamlessly with multiple LLMs and diverse external data sources.
-
-4. **Transparency:**  
-   - Provides visibility into reasoning processes, building trust and enabling debugging.
-
-5. **Robustness:**  
-   - Handles incomplete or ambiguous inputs gracefully, ensuring reliable performance.
-
 The guardrail-as-a-reasoning-layer architecture not only enhances LLM reasoning capabilities but also ensures the system is efficient, scalable, and adaptable to future advancements in AI technology.
 
 ---
